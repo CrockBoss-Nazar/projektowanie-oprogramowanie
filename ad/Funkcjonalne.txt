@@ -1,0 +1,17 @@
+FR-01 Logowanie użytkownika - System pozwala użytkownikowi na zalogowanie się do konta za pomocą danych dostępnych.
+FR-02 Kontrola uprawnień - System zapewnia dostęp tylko do funkcji odpowiadających przypisanej roli i uprawnieniom użytkownika. 
+FR-03 Wyszukiwanie produktu - System umożliwia magazynierowi odnalezienie produktu po kodzie EAN lub nazwie. 
+FR-04 Wyświetlanie informacji o produkcie - System pokazuje kod EAN, nazwę, kategorię, lokalizację i aktualny stan wybranego produktu. 
+FR-05 Sprawdzanie lokalizacji produktu - System pozwala na wyświetlenie sektora, regału i półki, na której jest produkt. 
+FR-06 Rejestrowanie przyjęcia towaru - System umożliwia magazynierowi zarejestrowanie przyjęcia produktu z ilością, zwiększając stan magazynowy. 
+FR-07 Rejestrowanie wydania towaru - System pozwala na rejestrację wydania produktu z ilością, zmniejszając stan magazynowy. 
+FR-08 Kontrola dostępnego stanu - System sprawdza aktualny stan magazynowy produktu przed rejestracją wydania. 
+FR-09 Blokada wydania ponad stan - System nie zezwala na zarejestrowanie wydania większej liczby sztuk niż obecnie dostępne w magazynie. 
+FR-10 Rejestrowanie historii operacji - System zapisuje szczegóły każdej operacji magazynowej: produkt, ilość, rodzaj operacji, użytkownik i data oraz czas. 
+FR-11 Przeglądanie stanów magazynowych - System umożliwia kierownikowi przeglądanie aktualnych stanów wszystkich produktów. 
+FR-12 Zarządzanie produktami - System pozwala kierownikowi na dodawanie, edytowanie i usuwanie danych o produktach. 
+FR-13 Przeglądanie historii operacji - System umożliwia kierownikowi wgląd w historię przyjęć i wydań towaru. 
+FR-14 Generowanie raportów - System pozwala kierownikowi na generowanie raportów o stanie i funkcjonowaniu magazynu. 
+FR-15 Zarządzanie kontami użytkowników - System umożliwia administratorowi tworzenie, edytowanie, blokowanie i usuwanie kont użytkowników. 
+FR-16 Nadawanie uprawnień - System pozwala administratorowi na przypisywanie użytkownikom ról i poziomów uprawnień. 
+FR-17 Resetowanie hasła - System umożliwia administratorowi obsługę sytuacji, gdy użytkownik zapomni hasła.

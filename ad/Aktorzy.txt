@@ -1,0 +1,28 @@
+AKTORZY SYSTEMU ZARZĄDZANIA MAGAZYNEM ELEKTRO-BUD
+
+A-01 Magazynier
+Jego rola: Jest pracownikiem odpowiedzialnym za bieżącą obsługę magazynu.
+Co może robić:
+- logowanie do systemu;
+- wyszukiwanie produktu po kodzie EAN lub nazwie;
+- sprawdzanie informacji o produkcie i jego lokalizacji;
+- rejestrowanie przyjęcia towaru;
+- rejestrowanie wydania towaru.
+
+A-02 Kierownik magazynu
+Jego rola: Nadzoruje funkcjonowanie magazynu i zarządzająca informacjami o produktach.
+Co może robić:
+- logowanie do systemu;
+- przeglądanie aktualnych stanów magazynowych;
+- dodawanie, edytowanie i usuwanie informacji o produktach;
+- przypisywanie lub zmiana lokalizacji produktu: sektor, regał i półka;
+- przeglądanie historii operacji magazynowych;
+- korzystanie z raportów dotyczących magazynu.
+
+A-03 Administrator
+Jego rola: Odpowiedzialny za konta użytkowników oraz ich uprawnienia w systemie.
+Co może robić:
+- logowanie do systemu;
+- tworzenie, edytowanie, blokowanie i usuwanie kont użytkowników;
+- przypisywanie ról i uprawnień użytkownikom;
+- obsługa sytuacji związanych z zapomnianym hasłem.
