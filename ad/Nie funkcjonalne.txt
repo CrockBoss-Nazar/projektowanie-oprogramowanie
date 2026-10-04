@@ -1,0 +1,9 @@
+NFR-01 Wydajność wyszukiwania - System powinien zwracać wynik wyszukiwania produktu po nazwie lub kodzie EAN w czasie nie dłuższym niż 2 sekundy w typowych warunkach pracy.
+NFR-02 Wydajność operacji magazynowych - System powinien zarejestrować przyjęcie lub wydanie towaru i zaktualizować stan magazynowy w czasie nie dłuższym niż 2 sekundy.
+NFR-03 Spójność danych - System powinien zachować poprawny stan magazynowy produktu, również gdy dwóch użytkowników wykonuje operacje dotyczące tego samego produktu jednocześnie.
+NFR-04 Bezpieczeństwo haseł - System powinien przechowywać hasła użytkowników w sposób uniemożliwiający ich odczyt w postaci jawnego tekstu.
+NFR-05 Uwierzytelnianie - System powinien wymagać logowania przed uzyskaniem dostępu do jego funkcji.
+NFR-06 Kontrola dostępu - System powinien ograniczać dostęp do funkcji zgodnie z rolą użytkownika: magazyniera, kierownika magazynu lub administratora.
+NFR-07 Rozliczalność operacji - System powinien zapisywać użytkownika oraz datę i czas dla każdej wykonanej operacji magazynowej.
+NFR-08 Użyteczność - Interfejs dla magazyniera powinien umożliwiać sprawne wykonywanie codziennych operacji, w szczególności wyszukiwania produktów i obsługi kodów EAN.
+NFR-09 Dostępność - System powinien umożliwiać kierownikowi korzystanie z informacji magazynowych również poza stanowiskiem znajdującym się bezpośrednio w magazynie.
